@@ -11,7 +11,7 @@ During the testing process, the following points have been checked:
 * redirections
 * login form functionality
 
-## Scope of testing ##
+## Scope of testing ##  
 
 **Home Page**
 
