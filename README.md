@@ -35,7 +35,7 @@ Additional, I have abtained certifications in Agile Project Management and gaine
 * agile concepts
 
 
-# Selected courses and Trainings #
+# Selected courses and trainings #
 
 * [ISTQB Syllabus](https://www.german-testing-board.info/wp-content/uploads/2022/01/GTB-CTFL_Lehrplan_v3.1_DE.pdf)
 * [The Complete 2023 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/) 
@@ -64,7 +64,7 @@ Additional, I have abtained certifications in Agile Project Management and gaine
 
 # Test plan #
 
-[My Store test plan](https://github.com/ilonamars/Portfolio)
+[My Store test plan](https://github.com/ilonamars/portfolio/blob/main/example%20store%20-%20test%20plan.md)
 
 
 # Test Cases #
@@ -77,9 +77,9 @@ Additional, I have abtained certifications in Agile Project Management and gaine
 
 # Bug reports #
 
-[Example store webpage – bug reports](https://docs.google.com/spreadsheets/d/1XtUVMRk_ddhO7VH4sXKbBiX0byrvuER1bG4MPgK6Vjg/edit?usp=sharing)
+[Example store webpage – main page - bug reports](https://docs.google.com/spreadsheets/d/1XtUVMRk_ddhO7VH4sXKbBiX0byrvuER1bG4MPgK6Vjg/edit?usp=sharing)
 
-[Example store website - login form – bug reports reports](https://docs.google.com/spreadsheets/d/1lNCfs_d7F_T9hSrQqWHIlPIJHSWPVI67ijKBxvJDC70/edit?usp=sharing)
+[Example store website - login form – bug reports](https://docs.google.com/spreadsheets/d/1lNCfs_d7F_T9hSrQqWHIlPIJHSWPVI67ijKBxvJDC70/edit?usp=sharing)
 
 # Test report #
-[My Store test report](https://github.com/ilonamars/portfolio)
+[My Store test report](https://github.com/ilonamars/portfolio/blob/main/example%20store%20-%20test%20report.md)
